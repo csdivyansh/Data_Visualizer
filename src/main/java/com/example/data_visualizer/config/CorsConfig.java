@@ -1,5 +1,6 @@
 package com.example.data_visualizer.config;
 
+package com.example.dashboard.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.*;
