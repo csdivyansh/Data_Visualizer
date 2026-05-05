@@ -65,6 +65,7 @@ public class ExcelParserService {
             data.add(rowData);
         }
 
+        workbook.close();
 
 
         return data;
