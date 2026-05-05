@@ -1,5 +1,5 @@
 package com.example.data_visualizer.DTO;
-package com.example.dashboard.dto;
+
 
 import lombok.Data;
 
