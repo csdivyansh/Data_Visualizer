@@ -1,5 +1,7 @@
 package com.example.data_visualizer.controller;
 
+import com.example.data_visualizer.DTO.UploadResponseDTO;
+import com.example.data_visualizer.service.FileProcessingService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
